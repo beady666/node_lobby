@@ -40,5 +40,5 @@ The user registration & login were mostly cribbed from Brad Traversy's tutorial 
 Bootstrap uses css to scale web apps based on the device viewport size. In general using bootstrap requires the following:
 * boostrap.js, boostrap.css, and jquery.min.js (I used 3.1.0)
    * for this project, I've included them in the `public` folder
-* include the above files in your layout html and add a meta viewport tag
-   * [Bootstrap requires jQuery](http://getbootstrap.com/getting-started/#template)
+* include the above files in your layout html and add a meta viewport tag, e.g.
+   * [basic html template with bootstrap](http://getbootstrap.com/getting-started/#template)
